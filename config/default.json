@@ -1,0 +1,7 @@
+{
+    "Settings": {
+      "dbConfig": {
+        "dbConnection": "mssql://webUser:power@ev-compsci-01.principia.local/stuart.demarkles"
+      }
+    }
+  }
